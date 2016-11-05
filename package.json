@@ -1,0 +1,14 @@
+{
+  "name": "font-to-webfont",
+  "version": "1.0.0",
+  "description": "## Setup ```bash npm install ```",
+  "main": "font.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fontfacegen": "^0.2.1"
+  }
+}
